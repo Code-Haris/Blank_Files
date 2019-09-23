@@ -1,2 +1,4 @@
 First line file1.txt
 Second line
+
+namechange
